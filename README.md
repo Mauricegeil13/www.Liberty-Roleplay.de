@@ -1,2 +1,2 @@
-# www.Liberty-Roleplay.de
+# www.libertyroleplay.de
 Test
